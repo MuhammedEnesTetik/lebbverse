@@ -5,10 +5,6 @@
   Basit, modüler, etkileşimli ve tamamen görsel.
 </p>
 
-<p align="center">
-  <img src="docs/cover_dark.png" alt="Lebbverse Cover" width="800">
-</p>
-
 ---
 
 ## 🚀 Özellikler
@@ -35,12 +31,13 @@ Her modül, kendi bileşeni içinde izole çalışır ve üst seviye state yöne
 
 | Kategori | Teknoloji | Açıklama |
 |-----------|------------|----------|
-| 🎨 Arayüz | React | Bileşen tabanlı modern UI mimarisi |
-| ⚡ Derleme | Vite | Hızlı geliştirme ve build sistemi |
-| 💅 Stil | CSS / Tailwind | Duyarlı ve tematik tasarım |
-| 📈 Grafikler | Recharts | Etkileşimli veri görselleştirme |
-| 🧰 Yardımcılar | PropTypes / Utils | Bileşen doğrulama ve yardımcı fonksiyonlar |
-| 🌙 Tema | Custom Dark Theme | Özel renk paleti ve kart tasarımı |
+| 🐍 Backend | **Python** | Makine öğrenimi ve veri işleme çekirdeği |
+| 🔥 Framework | **Flask** | API servisleri ve model entegrasyonu |
+| ⚛️ Frontend | **React** | Dinamik ve bileşen tabanlı kullanıcı arayüzü |
+| 💅 Stil | **CSS / Tailwind** | Modern, karanlık temalı ve duyarlı tasarım |
+| 📊 Görselleştirme | **Recharts / Chart.js** | Etkileşimli grafikler ve metrik görselleri |
+| 🧠 ML Kütüphaneleri | **Scikit-Learn / Pandas / NumPy** | Modelleme, veri işleme ve analiz altyapısı |
+| 🌙 Tema | **Custom Dark Theme** | Özel renk paleti ve kart tasarımı |
 
 ---
 
@@ -83,9 +80,7 @@ Her modül, kendi bileşeni içinde izole çalışır ve üst seviye state yöne
 ---
 
 ## 🧾 Lisans
-
-Bu proje **MIT Lisansı** ile sunulmaktadır.  
-Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı ile sunulmaktadır. Ayrıntılar için [LICENSE](./LICENSE) dosyasına bakın.
 
 ---
 
