@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Python
+backend/__pycache__/
+backend/processed/
+backend/uploads/
+backend/models/
+*.pyc
+
+# OS / IDE
+.DS_Store
+.vscode/
+.env
+
+# Logs
+*.log
