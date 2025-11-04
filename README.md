@@ -62,9 +62,18 @@ Her modül, kendi bileşeni içinde izole çalışır ve üst seviye state yöne
 
 ## 🖼️ Görseller
 
-| Ana Sayfa | Görselleştirme | Model Karşılaştırma |
-|------------|----------------|---------------------|
-| ![Home](docs/images/home.png) | ![Visualization](docs/images/visualization.png) | ![Compare](docs/images/compare.png) |
+<table>
+  <tr>
+    <td align="center"><b>Ana Sayfa</b></td>
+    <td align="center"><b>Görselleştirme</b></td>
+    <td align="center"><b>Model Karşılaştırma</b></td>
+  </tr>
+  <tr>
+    <td><img src="anasayfa.png" width="300"></td>
+    <td><img src="veri_görselleştirme-4.png" width="300"></td>
+    <td><img src="metrik_grafikler.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
